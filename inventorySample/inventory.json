@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Alternator", "quantity": 15, "price": 150.00 },
+    { "id": 2, "name": "Starter Motor", "quantity": 10, "price": 200.00 },
+    { "id": 3, "name": "Fuel Pump", "quantity": 25, "price": 75.50 },
+    { "id": 4, "name": "Spark Plug", "quantity": 100, "price": 8.99 },
+    { "id": 5, "name": "Oil Filter", "quantity": 50, "price": 12.00 },
+    { "id": 6, "name": "Air Filter", "quantity": 45, "price": 15.00 },
+    { "id": 7, "name": "Brake Pad", "quantity": 30, "price": 40.00 },
+    { "id": 8, "name": "Clutch Plate", "quantity": 20, "price": 120.00 },
+    { "id": 9, "name": "Timing Belt", "quantity": 12, "price": 90.00 },
+    { "id": 10, "name": "Water Pump", "quantity": 18, "price": 110.00 },
+    { "id": 11, "name": "Radiator", "quantity": 8, "price": 250.00 },
+    { "id": 12, "name": "Headlight", "quantity": 40, "price": 35.00 },
+    { "id": 13, "name": "Tail Light", "quantity": 35, "price": 30.00 },
+    { "id": 14, "name": "Battery", "quantity": 22, "price": 180.00 },
+    { "id": 15, "name": "Shock Absorber", "quantity": 16, "price": 95.00 },
+    { "id": 16, "name": "Muffler", "quantity": 14, "price": 130.00 },
+    { "id": 17, "name": "Catalytic Converter", "quantity": 9, "price": 220.00 },
+    { "id": 18, "name": "Exhaust Pipe", "quantity": 28, "price": 75.00 },
+    { "id": 19, "name": "Wheel Bearing", "quantity": 32, "price": 45.00 },
+    { "id": 20, "name": "Serpentine Belt", "quantity": 20, "price": 55.00 }
+  ]
+  
